@@ -457,7 +457,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>${Internal.Entry.Current.Directory}/Balaji Fast Food Sales.csv</filename>
+    <filename>C:\KULIAH\MATKUL_SEMESTER 4\DATA WAREHOUSE\P14-PROJECT UAS\Balaji Fast Food Sales.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -627,7 +627,6 @@
       </field>
       <field>
         <name>time_of_sale</name>
-        <rename/>
       </field>
       <select_unspecified>N</select_unspecified>
       <meta>
